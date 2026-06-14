@@ -66,7 +66,7 @@ MLOps-Major/
 Clone the repository:
 
 ```bash
-git clone git@github.com:rahulcivildp/MLOps-Major.git
+git clone git@github.com:kartikboss94/MLOps-Major.git
 cd MLOps-Major
 ```
 
@@ -152,7 +152,7 @@ Workflow file:
 Build the Docker image:
 
 ```bash
-docker build -t rahulcivildp/olivetti-face-app:0.1 .
+docker build -t g25ai1023/olivetti-face-app:0.1 .
 ```
 
 Run the container:
