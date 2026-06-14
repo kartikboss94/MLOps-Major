@@ -8,5 +8,5 @@ services:
     image: g25ai1023/olivetti-face-app:0.1
     container_name: olivetti-face-app
     ports:
-      - "5000:5000"
+      - "5001:5000"
     restart: unless-stopped

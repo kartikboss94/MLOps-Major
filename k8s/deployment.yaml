@@ -20,9 +20,9 @@ spec:
       containers:
       - name: olivetti-face-app
 
-        image: rahulcivildp/olivetti-face-app:0.1
+        image: g25ai1023/olivetti-face-app:0.1
 
         imagePullPolicy: Always
 
         ports:
-        - containerPort: 5000
+        - containerPort: 5001
